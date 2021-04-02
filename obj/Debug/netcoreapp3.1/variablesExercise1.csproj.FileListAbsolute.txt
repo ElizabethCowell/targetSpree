@@ -1,0 +1,13 @@
+C:\Users\eholy\source\repos\variablesExercise1\obj\Debug\netcoreapp3.1\variablesExercise1.csprojAssemblyReference.cache
+C:\Users\eholy\source\repos\variablesExercise1\obj\Debug\netcoreapp3.1\variablesExercise1.AssemblyInfoInputs.cache
+C:\Users\eholy\source\repos\variablesExercise1\obj\Debug\netcoreapp3.1\variablesExercise1.AssemblyInfo.cs
+C:\Users\eholy\source\repos\variablesExercise1\obj\Debug\netcoreapp3.1\variablesExercise1.csproj.CoreCompileInputs.cache
+C:\Users\eholy\source\repos\variablesExercise1\bin\Debug\netcoreapp3.1\variablesExercise1.exe
+C:\Users\eholy\source\repos\variablesExercise1\bin\Debug\netcoreapp3.1\variablesExercise1.deps.json
+C:\Users\eholy\source\repos\variablesExercise1\bin\Debug\netcoreapp3.1\variablesExercise1.runtimeconfig.json
+C:\Users\eholy\source\repos\variablesExercise1\bin\Debug\netcoreapp3.1\variablesExercise1.runtimeconfig.dev.json
+C:\Users\eholy\source\repos\variablesExercise1\bin\Debug\netcoreapp3.1\variablesExercise1.dll
+C:\Users\eholy\source\repos\variablesExercise1\bin\Debug\netcoreapp3.1\variablesExercise1.pdb
+C:\Users\eholy\source\repos\variablesExercise1\obj\Debug\netcoreapp3.1\variablesExercise1.dll
+C:\Users\eholy\source\repos\variablesExercise1\obj\Debug\netcoreapp3.1\variablesExercise1.pdb
+C:\Users\eholy\source\repos\variablesExercise1\obj\Debug\netcoreapp3.1\variablesExercise1.genruntimeconfig.cache
